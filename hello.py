@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 print("hello, git!")
 sum=0
 for i in range(1,101):
